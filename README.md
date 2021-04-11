@@ -1,5 +1,5 @@
 # Project Name: KHYPE
-The KHYPE project is an extensible educational module that uses assistive technology to enable students to learn empirical planent data while exploring the Milky Way planetarium in a virutal reality. The funding module uses a donation NFT for Educational Enrichment and potential deductability for contributions. The current educational module can be found at the decentralized website [(here https://turpinhill.eth.link)].
+The KHYPE project is an extensible educational module that uses assistive technology to enable students to learn empirical planent data while exploring the Milky Way planetarium in a virutal reality. The funding module uses a donation NFT for Educational Enrichment and potential deductability for contributions. The current educational module can be found at the decentralized website [here](https://turpinhill.eth.link).
 
 ## Tax Disclosure
 To ensure compliance with requirements imposed by the IRS under Circular 230, we inform you that an U.S. federal tax advice contained in this communication (including any attachments) is not intended or written to be used, and cannot be used, for the purpose of (i) avoiding penalties under the Internal Revenue Code or (ii) promoting, marketing or recommending to another party any matters addressed herein.
