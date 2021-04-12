@@ -8,7 +8,7 @@ We have entered this project in the Spring 2021 ChainLink hackathon in a manner 
 The source code is for the decentralized website is included in the khype folder.
 
 ## Videos
-These source file for these videos are located in the images folder. The videos are a draft on how we plan to incorporate our IPFS node in the educational curriculum using assistive technology and distance learning click here for [Video 1](https://youtu.be/HxoveJJh48M) and [Video 2](https://youtu.be/wvULmnIJA0k). The still images are exclusively provided by the courtesy of Cheryl Howard Photography and should not be duplicated withouth permission. Thank you Cheryl Howard Photography for assisting our project in the 13th hour.
+These source file for these videos are located in the images folder. The videos are a draft on how we plan to incorporate our IPFS node in the educational curriculum using assistive technology and distance learning click here for [Video 1](https://youtu.be/HxoveJJh48M) and [Video 2](https://youtu.be/wvULmnIJA0k). The still images are exclusively provided by the courtesy of Cheryl Howard Photography and should not be duplicated without permission. Thank you Cheryl Howard Photography for assisting our project in the 13th hour.
 
 ## Video Presentation
 The video demo presentation can be found [here](https://app.vyond.com/videos/b9431b0b-62bf-4a12-84e5-bab9d9bd34a0).
